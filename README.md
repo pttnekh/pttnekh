@@ -39,7 +39,7 @@ Python 기반 데이터 분석과 머신러닝, 그리고 웹 API 개발을 중�
 
 ## 📫 Contact
 
-- Email: pttnekh@example.com
+- Email: ksh03616@gmail.com
 - GitHub: https://github.com/pttnekh
 
 ---
