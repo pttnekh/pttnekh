@@ -78,9 +78,6 @@ Flask 백엔드와 공공/외부 날씨 API를 연동해 현재 날씨, 단기·
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pttnekh&theme=tokyonight)](https://git.io/streak-stats)
 
-![Sanghyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=pttnekh&show_icons=true&theme=tokyonight)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=pttnekh&theme=onedark)
 
 ### 🔹 최근 활동 / 학습용 저장소
 
