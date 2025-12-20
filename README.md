@@ -41,17 +41,20 @@ Python 기반 데이터 분석과 머신러닝, 그리고 웹 API 개발을 중�
 
 ## 📫 Contact
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; padding: 8px 0;">
+<div align="center">
   <a href="mailto:ksh03616@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ksh03616@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ksh03616@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 0 10px 12px 0;" />
   </a>
   <a href="https://github.com/pttnekh">
-    <img src="https://img.shields.io/badge/GitHub-pttnekh-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-pttnekh-181717?style=for-the-badge&logo=github&logoColor=white" style="margin: 0 10px 12px 0;" />
   </a>
   <a href="https://deluxe-rubidium-ea3.notion.site/Kwon-2c17174f477d8171b546fa887cc70045?pvs=143">
-    <img src="https://img.shields.io/badge/Notion-포트폴리오-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/Notion-Resume-000000?style=for-the-badge&logo=notion&logoColor=white" style="margin: 0 0 12px 0;" />
   </a>
 </div>
+
+
+
 
 
 ---
