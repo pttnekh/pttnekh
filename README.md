@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 안녕하세요, 컴퓨터·인공지능공학부에서 AI/ML에 집중하고 있는 개발자 Kwon입니다.  
-
-[![Notion Resume](https://img.shields.io/badge/Notion-Who's_kwon-000000?style=for-the-badge&logo=notion&logoColor=white)](https://deluxe-rubidium-ea3.notion.site/Kwon-2c17174f477d8171b546fa887cc70045?pvs=143)
-
 Python 기반 데이터 분석과 머신러닝, 그리고 웹 API 개발을 중심으로 공부하며, 실전 프로젝트로 날씨 웹 서비스와 **부산 부동산 데이터 분석 파이프라인**을 진행해왔습니다.
 
 ---
@@ -44,8 +41,18 @@ Python 기반 데이터 분석과 머신러닝, 그리고 웹 API 개발을 중�
 
 ## 📫 Contact
 
-- Email: [ksh03616@gmail.com](mailto:ksh03616@gmail.com)
-- GitHub: [https://github.com/pttnekh](https://github.com/pttnekh)
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; padding: 8px 0;">
+  <a href="mailto:ksh03616@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ksh03616@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/pttnekh">
+    <img src="https://img.shields.io/badge/GitHub-pttnekh-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://deluxe-rubidium-ea3.notion.site/Kwon-2c17174f477d8171b546fa887cc70045?pvs=143">
+    <img src="https://img.shields.io/badge/Notion-포트폴리오-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+</div>
+
 
 ---
 
