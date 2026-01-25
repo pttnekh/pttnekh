@@ -4,7 +4,7 @@ Python 기반 데이터/ML 파이프라인과 FastAPI API 서빙에 관심이 �
 
 ---
 
-## 🔭 Now (Focus)
+## 🔭 Now
 - ML 실험/분석 + 데이터 파이프라인(ETL) 설계
 - FastAPI 기반 REST API 서빙, Docker로 실행 환경 구성
 - 딥러닝/LLM 기초 학습(예제 코드 재현 중심): 임베딩(BoW/TF-IDF/word2vec), RNN/LSTM/GRU, seq2seq/Attention, Transformer/BERT
