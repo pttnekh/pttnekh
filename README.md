@@ -22,7 +22,7 @@ Python 기반 데이터/ML 파이프라인과 FastAPI API 서빙에 관심이 �
 부산 아파트 거래 데이터를 수집→변환→PostgreSQL 적재 후, FastAPI로 분석 결과를 API로 서빙하는 3단계 파이프라인입니다.  
 Docker Compose로 DB+API 실행 환경을 구성했습니다.
 
-- Repo: https://github.com/pttnekh/busan-realestate-analytics-pipeline
+- Repo: https://github.com/pttnekh/busan-realestate-analytics-pipeline-main.git
 - Tech: Python, PostgreSQL, FastAPI, Docker Compose
 
 ### 🌤 Today’s Sky (팀 프로젝트)
@@ -43,7 +43,7 @@ Docker Compose로 DB+API 실행 환경을 구성했습니다.
 ## 📫 Contact
 <div align="center">
   <a href="mailto:ksh03616@gmail.com">
-    <img src="https://github.com/pttnekh/busan-realestate-analytics-pipeline-main.git" />
+    <img src="https://img.shields.io/badge/Email-ksh03616@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/pttnekh">
     <img src="https://img.shields.io/badge/GitHub-pttnekh-181717?style=for-the-badge&logo=github&logoColor=white" />
